@@ -3,7 +3,7 @@ Fertilizers Recommendation System For Disease Prediction
 
 Project Title: Fertilizers Recommendation System For Disease Prediction
 
-Team ID :
+Team ID : PNT2022TMID10715
 
 Team Size : 4
 
