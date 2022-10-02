@@ -1,5 +1,4 @@
-IBM-Project-IBM-Project-23753-1659927643
-Fertilizers Recommendation System For Disease Prediction
+# IBM-Project-IBM-Project-23753-1659927643
 
 Project Title: Fertilizers Recommendation System For Disease Prediction
 
