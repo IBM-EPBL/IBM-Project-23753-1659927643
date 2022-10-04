@@ -1,6 +1,6 @@
 # IBM-Project-IBM-Project-23753-1659927643
 
-Project Title: Fertilizers Recommendation System For Disease Prediction
+# Project Title: Fertilizers Recommendation System For Disease Prediction
 
 Team ID : PNT2022TMID10715
 
